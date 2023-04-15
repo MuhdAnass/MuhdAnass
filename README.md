@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Muhammad Anas Bin Mohd Pikri</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
 <h3 align="center">Currently still a student studying in Computer Science and have interest to explore more in tech area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdanass&label=Profile%20views&color=0e75b6&style=flat" alt="muhdanass" /> </p>
